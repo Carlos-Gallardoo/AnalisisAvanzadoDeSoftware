@@ -1,4 +1,4 @@
-![Tecnologico de Tijuana](https://upload.wikimedia.org/wikipedia/commons/2/2e/ITT.jpg)
+<!--![Tecnologico de Tijuana](https://upload.wikimedia.org/wikipedia/commons/2/2e/ITT.jpg)-->
 ![Tecnologico de Tijuana](img/Sistemas.png)
 
 # Información
