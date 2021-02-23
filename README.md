@@ -1,5 +1,5 @@
 <!--![Tecnologico de Tijuana](https://upload.wikimedia.org/wikipedia/commons/2/2e/ITT.jpg)-->
-:alien:
+:pushpin:
 ![Tecnologico de Tijuana](img/Sistemas.png)
 
 # Información
@@ -19,6 +19,8 @@
 # Indice :clipboard: 
 ---
 ## Unidad 1 :page_facing_up:
+
+- [C0.1IntegrarEquipo](https://docs.google.com/document/d/1MnBzWIb03Xx1ObUHhBGXW-1zaSSherMXrVJu18MeYIM/edit)
 
 ## Unidad 2 :page_facing_up:
 
