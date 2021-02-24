@@ -20,7 +20,7 @@
 ---
 ## Unidad 1 :page_facing_up:
 
-- [C0.1_Integrar_Equipo_de_Trabajo](https://docs.google.com/document/d/13jBsAkUBIro1boIx6RgUtw9__wS5RNQlL8f8XaveGDs/edit?usp=sharing)
+- [C0.1_Integrar_Equipo_de_Trabajo](https://docs.google.com/document/d/1QsMjiDnI7LSJokgn1RalxXQ2pH5tmkW2ee5aKgSQw9M/edit?usp=sharing)
 
 ## Unidad 2 :page_facing_up:
 
