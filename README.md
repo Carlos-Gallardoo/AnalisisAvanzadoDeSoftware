@@ -20,7 +20,7 @@
 ---
 ## Unidad 1 :page_facing_up:
 
-- [C0.1_Integrar_Equipo_de_Trabajo](docs/C0.1_IntegrarEquiposdeTrabajo_GallardoDueñasCarlosIvan.pdf)
+- [C0.1_Integrar_Equipo_de_Trabajo](pdf/C0.1_IntegrarEquiposdeTrabajo_CarlosGallardo.pdf)
 
 ## Unidad 2 :page_facing_up:
 
