@@ -21,7 +21,7 @@
 ## Unidad 1 :page_facing_up:
 
 - [C0.1_Integrar_Equipo_de_Trabajo](pdf/C0.1_IntegrarEquiposdeTrabajo_CarlosGallardo.pdf)
-
+- [C0.2 Tipo de sistema de informacion](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/pdf/C0.2_Tipo_de_Sistema_Desarrollar_GallardoCarlos.pdf)
 ## Unidad 2 :page_facing_up:
 
 ## Unidad 3 :page_facing_up:
