@@ -29,6 +29,7 @@
 - [C1.2 ActaConstitutiva_delProyecto](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/C1.2_ActaConstitutiva_delProyecto_GallardoCarlos.md)
 - [C1.3 Requisitos del sistema](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/C1.3_requisitos_del_Sistema_GallardoCarlos.md)
 - [A1.0 Acta Constitutiva del Proyecto](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A1.0_ConstitutiveAct_Project.md)
+- [C1.4_UML_Casos_de_uso_secuencia_clases](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/C1.4_UML_Casos_de_uso_secuencia_clases.md)
 ## Unidad 3 :page_facing_up:
 
 ## Unidad 4 :page_facing_up:
