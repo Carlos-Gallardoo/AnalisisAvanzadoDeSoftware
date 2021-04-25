@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T04:54:59.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="914wnn0MraM9U7qRYHak" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T04:58:05.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="lTNhS-QUb-G_I4tb6aKC" version="14.6.3" type="github">
   <diagram id="C2pd3Q5dbTHuLdkDcIW6" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,14 +21,19 @@
         <mxCell id="SsfZjTtLDJ8S_RzeLwdR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.071;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="SsfZjTtLDJ8S_RzeLwdR-3" target="SsfZjTtLDJ8S_RzeLwdR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SsfZjTtLDJ8S_RzeLwdR-3" value="Agrupación&#xa; general de tópicos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="SsfZjTtLDJ8S_RzeLwdR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.6;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SsfZjTtLDJ8S_RzeLwdR-3" target="SsfZjTtLDJ8S_RzeLwdR-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsfZjTtLDJ8S_RzeLwdR-3" value="Agrupación&#xa; general de tópicos&#xa;(principal) " style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="340" y="270" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SsfZjTtLDJ8S_RzeLwdR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SsfZjTtLDJ8S_RzeLwdR-4" target="SsfZjTtLDJ8S_RzeLwdR-3">
+        <mxCell id="SsfZjTtLDJ8S_RzeLwdR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SsfZjTtLDJ8S_RzeLwdR-4" target="SsfZjTtLDJ8S_RzeLwdR-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SsfZjTtLDJ8S_RzeLwdR-4" value="Creación de tópicos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="345" y="100" width="150" height="50" as="geometry" />
+          <mxGeometry x="220" y="90" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SsfZjTtLDJ8S_RzeLwdR-8" value="BD" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="60" height="80" as="geometry" />
@@ -38,6 +43,15 @@
         </mxCell>
         <mxCell id="SsfZjTtLDJ8S_RzeLwdR-10" value="Valoración de tópicos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="390" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SsfZjTtLDJ8S_RzeLwdR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="SsfZjTtLDJ8S_RzeLwdR-12" target="SsfZjTtLDJ8S_RzeLwdR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SsfZjTtLDJ8S_RzeLwdR-12" value="Aprobación de tópicos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SsfZjTtLDJ8S_RzeLwdR-15" value="Reportes &#xa;de tópicos" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="90" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
