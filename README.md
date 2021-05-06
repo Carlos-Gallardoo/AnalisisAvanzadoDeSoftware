@@ -32,6 +32,7 @@
 - [C1.4_UML_Casos_de_uso_secuencia_clases](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/C1.4_UML_Casos_de_uso_secuencia_clases.md)
 - [C1.5_UML_Estado_Componentes_distribucion](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/C1.5_UML_Estado_componentes_distribucion_GallardoCarlos.md)
 - [A1.1_RequirementsModeling_UML](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A1.1_requirementsModeling_UML_GallardoCarlos.md)
+- [C2.1 EspecificacionRequerimientos Funcionales](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/C2.1_EspecificacionRequerimientos_Funcionales_GallardoDue%C3%B1as.md)
 ## Unidad 3 :page_facing_up:
 
 ## Unidad 4 :page_facing_up:
