@@ -34,6 +34,7 @@
 - [A1.1_RequirementsModeling_UML](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A1.1_requirementsModeling_UML_GallardoCarlos.md)
 - [C2.1 EspecificacionRequerimientos Funcionales](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/C2.1_EspecificacionRequerimientos_Funcionales_GallardoDue%C3%B1as.md)
 - [A2.1_Requirements_Specification_and_documentation](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/pdf/A2.1_Requirements_Specification_and_documentation_GallardoCarlos.pdf)
+- [A2.2_Architecture_design 4+1](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A2.2%20Architecture_design_GallardoCarlos.md) 
 ## Unidad 3 :page_facing_up:
 
 ## Unidad 4 :page_facing_up:
