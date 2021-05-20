@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T03:47:37.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="7_CkruS4CDjJREURkf9e" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T03:52:16.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="OnwR0eKLvhOu6H8CupdN" version="14.6.13" type="github">
   <diagram id="cjHbuR5uFcHh2thT_gq6" name="Page-1">
     <mxGraphModel dx="1102" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,9 +121,6 @@
         <mxCell id="LvNZb5COlXR6SUWjMBHP-3" value="&lt;h1&gt;Note&lt;/h1&gt;&lt;p&gt;API rest is going to communicate with PostMan to obtain the user&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="490" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LvNZb5COlXR6SUWjMBHP-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.cesarcodecrafter.com/content/images/2020/03/pm-logo-vert.jpg;" vertex="1" parent="1">
-          <mxGeometry x="255" y="490" width="170" height="88.92" as="geometry" />
-        </mxCell>
         <mxCell id="LvNZb5COlXR6SUWjMBHP-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images-na.ssl-images-amazon.com/images/I/51Warh2mBVL.png;" vertex="1" parent="1">
           <mxGeometry x="532.75" y="200" width="32.5" height="32.5" as="geometry" />
         </mxCell>
@@ -135,6 +132,9 @@
         </mxCell>
         <mxCell id="LvNZb5COlXR6SUWjMBHP-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://image.flaticon.com/icons/png/512/29/29264.png;" vertex="1" parent="1">
           <mxGeometry x="530.49" y="334" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LvNZb5COlXR6SUWjMBHP-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://testerhouse.com/wp-content/uploads/2019/09/postman-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="265" y="490" width="320" height="132" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
