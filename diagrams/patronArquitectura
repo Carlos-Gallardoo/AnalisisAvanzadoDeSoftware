@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T07:17:01.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="P8zOkt6aAmEGXn0CBTO-" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-23T07:17:36.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="yN-TuizenQxGGDYWDsZu" version="14.6.13" type="github">
   <diagram id="hEnS-MmLLpa4oCWp2LDK" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -243,12 +243,6 @@
         </mxCell>
         <mxCell id="_KcnZvEL_b4CydQpyhME-111" value="Directs user interactions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="1232" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_KcnZvEL_b4CydQpyhME-114" value="Topics DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1560" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_KcnZvEL_b4CydQpyhME-115" value="Users API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1745" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
