@@ -37,7 +37,7 @@
 - [A2.2_Architecture_design 4+1](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A2.2%20Architecture_design_CarlosGallardo.md) 
 - [A2.3_Software_ArchitecturePatterns](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A2.3_Software_ArchitecturePatterns_CarlosGallardo.md)
 ## Unidad 3 :page_facing_up:
-
+- [A3.1_Scrum_Initial_Phase_ProyectVision](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A3.1_Scrum_Initial_Phase_ProyectVision_GallardoCarlos.md)
 ## Unidad 4 :page_facing_up:
 
 ## Unidad 5 :page_facing_up:
