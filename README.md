@@ -38,6 +38,7 @@
 - [A2.3_Software_ArchitecturePatterns](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A2.3_Software_ArchitecturePatterns_CarlosGallardo.md)
 ## Unidad 3 :page_facing_up:
 - [A3.1_Scrum_Initial_Phase_ProyectVision](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A3.1_Scrum_Initial_Phase_ProyectVision_GallardoCarlos.md)
+- [A3.2-Start-Phase-and-your-artifact](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A3.2-Start-Phase-and-your-artifact_GallardoCarlos.md)
 - [A3.3_Architecture_C4_Model](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A3.3_Architecture_C4_Model.md) 
 ## Unidad 4 :page_facing_up:
 
