@@ -40,6 +40,7 @@
 - [A3.1_Scrum_Initial_Phase_ProyectVision](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A3.1_Scrum_Initial_Phase_ProyectVision_GallardoCarlos.md)
 - [A3.2-Start-Phase-and-your-artifact](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A3.2-Start-Phase-and-your-artifact_GallardoCarlos.md)
 - [A3.3_Architecture_C4_Model](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A3.3_Architecture_C4_Model.md) 
+- [A3.4_Scrum_Artifacts_Planning_Estimation](https://github.com/Carlos-Gallardoo/AnalisisAvanzadoDeSoftware/blob/main/docs/A3.4_Scrum_Artifacts_Planning_Estimation_GallardoCarlos.md)
 ## Unidad 4 :page_facing_up:
 
 ## Unidad 5 :page_facing_up:
